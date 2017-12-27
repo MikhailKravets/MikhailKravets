@@ -1,3 +1,6 @@
+html{
+    background: #f5f5f5;
+}
 #wrapper{
     display: flex;
     max-width: 1200px;
@@ -11,7 +14,7 @@
     color: #393939;
 }
 #left{
-    border-right: 1px solid #c2c2c2;
+    border-right: 1px dotted #c2c2c2;
     padding: 10px;
     width: 300px;
     text-align: center;
@@ -62,4 +65,18 @@ h3{
     height: 120px;
     border-radius: 50%;
     border: 1px solid #c2c2c2;
+}
+
+#left .left-aligned{
+    margin-left: auto;
+    margin-right: auto;
+    width: 120px;
+}
+
+.link{
+    display: block;
+    text-align: left;
+    padding: 1px;
+    color: #6e6e6e;
+    text-decoration: none;
 }
