@@ -80,3 +80,6 @@ h3{
     color: #6e6e6e;
     text-decoration: none;
 }
+.link:hover{
+    text-decoration: underline;
+}
