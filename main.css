@@ -11,7 +11,7 @@ html{
     font-family: 'Source Code Pro', sans-serif;
     font-size: 12pt;
     background: white;
-    border: 1px solid #dedede;
+    border: 1px solid #ececec;
     color: #393939;
 }
 #left{
@@ -19,7 +19,7 @@ html{
     padding: 10px;
     width: 300px;
     text-align: center;
-    background: #dbdbdb;
+
 }
 #main{
     display: block;
