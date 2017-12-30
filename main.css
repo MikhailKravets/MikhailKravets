@@ -15,7 +15,8 @@ html{
     color: #393939;
 }
 #left{
-    border-right: 1px dotted #c2c2c2;
+    background: #5ba1c7;
+    /*border-right: 1px dotted #c2c2c2;*/
     padding: 10px;
     width: 300px;
     text-align: center;
@@ -68,7 +69,7 @@ h3{
     width: 120px;
     height: 120px;
     border-radius: 50%;
-    border: 1px solid #a6a6a6;
+    border: 1px solid #35566c;
 }
 
 .pic-block{
@@ -80,7 +81,7 @@ h3{
 .svg-pic{
     width: 15px;
     height: auto;
-    fill: #525252;
+    fill: #ffffff;
 }
 
 #left .left-aligned{
@@ -105,9 +106,17 @@ h3{
     padding-bottom: 5px;
 }
 
+.left-aligned .info{
+    color: white;
+}
+
 .left-aligned .support{
     font-size: 0.8rem;
-    color: #797979;
+    color: whitesmoke;
+}
+
+#left h4{
+    color: white;
 }
 
 .sub-block{
