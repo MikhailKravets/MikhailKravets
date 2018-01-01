@@ -121,15 +121,25 @@ h3{
 
 .sub-block{
     display: flex;
-    align-items: center;
 }
 
 .period{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     padding-left: 5px;
-    padding-right: 10px;
+    padding-right: 15px;
+    margin-top: 15px;
+    margin-bottom: 10px;
     font-size: 0.85rem;
     text-align: center;
     color: #797979;
+}
+
+.period .br{
+    flex-grow: 1;
+    display: block;
+    border-right: 1px dotted #cdcdcd;
 }
 
 .main{
