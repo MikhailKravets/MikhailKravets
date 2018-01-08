@@ -11,7 +11,8 @@ html{
     font-family: 'Source Code Pro', sans-serif;
     font-size: 12pt;
     background: white;
-    border: 1px solid #ececec;
+    border: 1px solid #e8e8e8;
+    box-shadow: -1px 0px 7px 0px #d3d3d3;
     color: #393939;
 }
 #left{
