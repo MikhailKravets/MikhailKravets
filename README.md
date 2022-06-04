@@ -1,11 +1,23 @@
 # Hello
 
-Welcome to my github space.
+Welcome to my GitHub space.
 
-![](https://komarev.com/ghpvc/?username=mikhailkravets&style=for-the-badge&label=MAGIC%20NUMBER&color=ff69b4)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-sterling/)
 
 -------------
 
-<div id="header" align="center">
+<!-- <span id="header" align="center">
   <img src="https://media.giphy.com/media/CfsHhb5lUjBcLuXmz6/giphy.gif" width="250"/>
+</span>
+ -->
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/pVGsAWjzvXcZW4ZBTE/giphy.gif" width="800"/>
 </div>
+
+<!-- <div id="header" align="center">
+  <img src="https://media.giphy.com/media/KHh7jLrG6gIXBTnxsp/giphy.gif" width="600"/>
+</div> -->
+
+## My Publications
+
+[Building BERT with PyTorch from scratch](https://coaxsoft.com/blog/building-bert-with-pytorch-from-scratch)
