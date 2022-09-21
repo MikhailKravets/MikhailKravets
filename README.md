@@ -21,3 +21,4 @@ Welcome to my GitHub space.
 ## My Publications
 
 [Building BERT with PyTorch from scratch](https://coaxsoft.com/blog/building-bert-with-pytorch-from-scratch)
+[Add inline PlantUML to your MkDocs documentation](https://medium.com/@michkravets/add-inline-plantuml-to-your-mkdocs-documentation-9a2acb7599a6)
