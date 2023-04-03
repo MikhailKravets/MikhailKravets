@@ -23,3 +23,5 @@ Welcome to my GitHub space.
 [Building BERT with PyTorch from scratch](https://github.com/coaxsoft/pytorch_bert)
 
 [Add inline PlantUML to your MkDocs documentation](https://medium.com/@michkravets/add-inline-plantuml-to-your-mkdocs-documentation-9a2acb7599a6)
+
+[Build and Train Vision Transformer from Scratch](https://medium.com/@michkravets/build-and-train-vision-transformer-from-scratch-f206c065bdf8)
